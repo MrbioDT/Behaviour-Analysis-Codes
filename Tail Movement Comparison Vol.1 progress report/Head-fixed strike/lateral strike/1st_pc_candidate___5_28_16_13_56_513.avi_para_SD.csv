@@ -1,0 +1,2 @@
+,Fs,ROI,bladder_thresh,bout_edges,bout_freq,bout_max_amplitude,boutedges_thresh,coefficient,eye_thresh,final_striking,one_mm,original_striking,peakthres,scale,strike_thresh,strike_thresh_02,striking,tail_startpoint,tail_thresh,threshval
+0,300,"((33, 364), (519, 668))",164,"[(292, 394)]",[11.76470588235294],[38.533117958599917],0.45,3.30833700926,181,"[(355, -0.16705568849851454)]",90.68,"[(355, -0.16705568849851454)]",4,0.75,0.65,0.661667401853,"[(355, -0.16705568849851454)]","[206, 452]",50,0.3
